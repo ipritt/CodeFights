@@ -1,0 +1,7 @@
+c:\users\ipritt\source\repos\IsLucky\IsLucky\bin\Debug\IsLucky.exe.config
+c:\users\ipritt\source\repos\IsLucky\IsLucky\bin\Debug\IsLucky.exe
+c:\users\ipritt\source\repos\IsLucky\IsLucky\bin\Debug\IsLucky.pdb
+c:\users\ipritt\source\repos\IsLucky\IsLucky\obj\Debug\IsLucky.csprojResolveAssemblyReference.cache
+c:\users\ipritt\source\repos\IsLucky\IsLucky\obj\Debug\IsLucky.csproj.CoreCompileInputs.cache
+c:\users\ipritt\source\repos\IsLucky\IsLucky\obj\Debug\IsLucky.exe
+c:\users\ipritt\source\repos\IsLucky\IsLucky\obj\Debug\IsLucky.pdb

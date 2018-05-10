@@ -1,0 +1,6 @@
+c:\users\ipritt\source\repos\MakeArrayConsecutive2\MakeArrayConsecutive2\bin\Debug\MakeArrayConsecutive2.exe.config
+c:\users\ipritt\source\repos\MakeArrayConsecutive2\MakeArrayConsecutive2\bin\Debug\MakeArrayConsecutive2.exe
+c:\users\ipritt\source\repos\MakeArrayConsecutive2\MakeArrayConsecutive2\bin\Debug\MakeArrayConsecutive2.pdb
+c:\users\ipritt\source\repos\MakeArrayConsecutive2\MakeArrayConsecutive2\obj\Debug\MakeArrayConsecutive2.csproj.CoreCompileInputs.cache
+c:\users\ipritt\source\repos\MakeArrayConsecutive2\MakeArrayConsecutive2\obj\Debug\MakeArrayConsecutive2.exe
+c:\users\ipritt\source\repos\MakeArrayConsecutive2\MakeArrayConsecutive2\obj\Debug\MakeArrayConsecutive2.pdb

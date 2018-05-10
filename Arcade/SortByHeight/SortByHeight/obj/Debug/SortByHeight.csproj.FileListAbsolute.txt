@@ -1,0 +1,7 @@
+c:\users\ipritt\source\repos\SortByHeight\SortByHeight\bin\Debug\SortByHeight.exe.config
+c:\users\ipritt\source\repos\SortByHeight\SortByHeight\bin\Debug\SortByHeight.exe
+c:\users\ipritt\source\repos\SortByHeight\SortByHeight\bin\Debug\SortByHeight.pdb
+c:\users\ipritt\source\repos\SortByHeight\SortByHeight\obj\Debug\SortByHeight.csproj.CoreCompileInputs.cache
+c:\users\ipritt\source\repos\SortByHeight\SortByHeight\obj\Debug\SortByHeight.exe
+c:\users\ipritt\source\repos\SortByHeight\SortByHeight\obj\Debug\SortByHeight.pdb
+c:\users\ipritt\source\repos\SortByHeight\SortByHeight\obj\Debug\SortByHeight.csprojResolveAssemblyReference.cache

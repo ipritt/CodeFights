@@ -1,0 +1,7 @@
+c:\users\ipritt\source\repos\IsCryptSolution\IsCryptSolution\bin\Debug\IsCryptSolution.exe.config
+c:\users\ipritt\source\repos\IsCryptSolution\IsCryptSolution\bin\Debug\IsCryptSolution.exe
+c:\users\ipritt\source\repos\IsCryptSolution\IsCryptSolution\bin\Debug\IsCryptSolution.pdb
+c:\users\ipritt\source\repos\IsCryptSolution\IsCryptSolution\obj\Debug\IsCryptSolution.csprojResolveAssemblyReference.cache
+c:\users\ipritt\source\repos\IsCryptSolution\IsCryptSolution\obj\Debug\IsCryptSolution.csproj.CoreCompileInputs.cache
+c:\users\ipritt\source\repos\IsCryptSolution\IsCryptSolution\obj\Debug\IsCryptSolution.exe
+c:\users\ipritt\source\repos\IsCryptSolution\IsCryptSolution\obj\Debug\IsCryptSolution.pdb

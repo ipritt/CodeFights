@@ -1,0 +1,6 @@
+c:\users\ipritt\source\repos\AllLongestStrings\AllLongestStrings\bin\Debug\AllLongestStrings.exe.config
+c:\users\ipritt\source\repos\AllLongestStrings\AllLongestStrings\bin\Debug\AllLongestStrings.exe
+c:\users\ipritt\source\repos\AllLongestStrings\AllLongestStrings\bin\Debug\AllLongestStrings.pdb
+c:\users\ipritt\source\repos\AllLongestStrings\AllLongestStrings\obj\Debug\AllLongestStrings.csproj.CoreCompileInputs.cache
+c:\users\ipritt\source\repos\AllLongestStrings\AllLongestStrings\obj\Debug\AllLongestStrings.exe
+c:\users\ipritt\source\repos\AllLongestStrings\AllLongestStrings\obj\Debug\AllLongestStrings.pdb

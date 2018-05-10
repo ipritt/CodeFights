@@ -1,0 +1,7 @@
+C:\Users\ipritt\source\repos\FirstDuplicate\FirstDuplicate\bin\Debug\FirstDuplicate.exe.config
+C:\Users\ipritt\source\repos\FirstDuplicate\FirstDuplicate\bin\Debug\FirstDuplicate.exe
+C:\Users\ipritt\source\repos\FirstDuplicate\FirstDuplicate\bin\Debug\FirstDuplicate.pdb
+C:\Users\ipritt\source\repos\FirstDuplicate\FirstDuplicate\obj\Debug\FirstDuplicate.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\source\repos\FirstDuplicate\FirstDuplicate\obj\Debug\FirstDuplicate.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\source\repos\FirstDuplicate\FirstDuplicate\obj\Debug\FirstDuplicate.exe
+C:\Users\ipritt\source\repos\FirstDuplicate\FirstDuplicate\obj\Debug\FirstDuplicate.pdb

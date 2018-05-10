@@ -1,0 +1,7 @@
+c:\users\ipritt\source\repos\IsListPalindrome\IsListPalindrome\bin\Debug\IsListPalindrome.exe.config
+c:\users\ipritt\source\repos\IsListPalindrome\IsListPalindrome\bin\Debug\IsListPalindrome.exe
+c:\users\ipritt\source\repos\IsListPalindrome\IsListPalindrome\bin\Debug\IsListPalindrome.pdb
+c:\users\ipritt\source\repos\IsListPalindrome\IsListPalindrome\obj\Debug\IsListPalindrome.csproj.CoreCompileInputs.cache
+c:\users\ipritt\source\repos\IsListPalindrome\IsListPalindrome\obj\Debug\IsListPalindrome.exe
+c:\users\ipritt\source\repos\IsListPalindrome\IsListPalindrome\obj\Debug\IsListPalindrome.pdb
+c:\users\ipritt\source\repos\IsListPalindrome\IsListPalindrome\obj\Debug\IsListPalindrome.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\ipritt\source\repos\AdjacentElementsProduct\AdjacentElementsProduct\obj\Debug\AdjacentElementsProduct.csproj.CoreCompileInputs.cache
+c:\users\ipritt\source\repos\AdjacentElementsProduct\AdjacentElementsProduct\bin\Debug\AdjacentElementsProduct.exe.config
+c:\users\ipritt\source\repos\AdjacentElementsProduct\AdjacentElementsProduct\bin\Debug\AdjacentElementsProduct.exe
+c:\users\ipritt\source\repos\AdjacentElementsProduct\AdjacentElementsProduct\bin\Debug\AdjacentElementsProduct.pdb
+c:\users\ipritt\source\repos\AdjacentElementsProduct\AdjacentElementsProduct\obj\Debug\AdjacentElementsProduct.exe
+c:\users\ipritt\source\repos\AdjacentElementsProduct\AdjacentElementsProduct\obj\Debug\AdjacentElementsProduct.pdb

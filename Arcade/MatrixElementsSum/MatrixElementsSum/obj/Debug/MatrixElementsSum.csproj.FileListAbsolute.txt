@@ -1,0 +1,7 @@
+c:\users\ipritt\source\repos\MatrixElementsSum\MatrixElementsSum\bin\Debug\MatrixElementsSum.exe.config
+c:\users\ipritt\source\repos\MatrixElementsSum\MatrixElementsSum\bin\Debug\MatrixElementsSum.exe
+c:\users\ipritt\source\repos\MatrixElementsSum\MatrixElementsSum\bin\Debug\MatrixElementsSum.pdb
+c:\users\ipritt\source\repos\MatrixElementsSum\MatrixElementsSum\obj\Debug\MatrixElementsSum.csprojResolveAssemblyReference.cache
+c:\users\ipritt\source\repos\MatrixElementsSum\MatrixElementsSum\obj\Debug\MatrixElementsSum.csproj.CoreCompileInputs.cache
+c:\users\ipritt\source\repos\MatrixElementsSum\MatrixElementsSum\obj\Debug\MatrixElementsSum.exe
+c:\users\ipritt\source\repos\MatrixElementsSum\MatrixElementsSum\obj\Debug\MatrixElementsSum.pdb

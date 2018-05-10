@@ -1,0 +1,7 @@
+c:\users\ipritt\source\repos\CheckPalindrome\CheckPalindrome\bin\Debug\CheckPalindrome.exe.config
+c:\users\ipritt\source\repos\CheckPalindrome\CheckPalindrome\bin\Debug\CheckPalindrome.exe
+c:\users\ipritt\source\repos\CheckPalindrome\CheckPalindrome\bin\Debug\CheckPalindrome.pdb
+c:\users\ipritt\source\repos\CheckPalindrome\CheckPalindrome\obj\Debug\CheckPalindrome.csproj.CoreCompileInputs.cache
+c:\users\ipritt\source\repos\CheckPalindrome\CheckPalindrome\obj\Debug\CheckPalindrome.exe
+c:\users\ipritt\source\repos\CheckPalindrome\CheckPalindrome\obj\Debug\CheckPalindrome.pdb
+c:\users\ipritt\source\repos\CheckPalindrome\CheckPalindrome\obj\Debug\CheckPalindrome.csprojResolveAssemblyReference.cache

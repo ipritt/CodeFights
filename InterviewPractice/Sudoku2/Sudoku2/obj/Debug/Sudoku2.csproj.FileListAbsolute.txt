@@ -1,0 +1,7 @@
+C:\Users\ipritt\source\repos\Sudoku2\Sudoku2\bin\Debug\Sudoku2.exe.config
+C:\Users\ipritt\source\repos\Sudoku2\Sudoku2\bin\Debug\Sudoku2.exe
+C:\Users\ipritt\source\repos\Sudoku2\Sudoku2\bin\Debug\Sudoku2.pdb
+C:\Users\ipritt\source\repos\Sudoku2\Sudoku2\obj\Debug\Sudoku2.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\source\repos\Sudoku2\Sudoku2\obj\Debug\Sudoku2.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\source\repos\Sudoku2\Sudoku2\obj\Debug\Sudoku2.exe
+C:\Users\ipritt\source\repos\Sudoku2\Sudoku2\obj\Debug\Sudoku2.pdb

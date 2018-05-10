@@ -1,0 +1,6 @@
+c:\users\ipritt\source\repos\CenturyFromYear\CenturyFromYear\bin\Debug\CenturyFromYear.exe.config
+c:\users\ipritt\source\repos\CenturyFromYear\CenturyFromYear\bin\Debug\CenturyFromYear.exe
+c:\users\ipritt\source\repos\CenturyFromYear\CenturyFromYear\bin\Debug\CenturyFromYear.pdb
+c:\users\ipritt\source\repos\CenturyFromYear\CenturyFromYear\obj\Debug\CenturyFromYear.csproj.CoreCompileInputs.cache
+c:\users\ipritt\source\repos\CenturyFromYear\CenturyFromYear\obj\Debug\CenturyFromYear.exe
+c:\users\ipritt\source\repos\CenturyFromYear\CenturyFromYear\obj\Debug\CenturyFromYear.pdb

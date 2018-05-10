@@ -1,0 +1,7 @@
+c:\users\ipritt\source\repos\ReverseParentheses\ReverseParentheses\bin\Debug\ReverseParentheses.exe.config
+c:\users\ipritt\source\repos\ReverseParentheses\ReverseParentheses\bin\Debug\ReverseParentheses.exe
+c:\users\ipritt\source\repos\ReverseParentheses\ReverseParentheses\bin\Debug\ReverseParentheses.pdb
+c:\users\ipritt\source\repos\ReverseParentheses\ReverseParentheses\obj\Debug\ReverseParentheses.csprojResolveAssemblyReference.cache
+c:\users\ipritt\source\repos\ReverseParentheses\ReverseParentheses\obj\Debug\ReverseParentheses.csproj.CoreCompileInputs.cache
+c:\users\ipritt\source\repos\ReverseParentheses\ReverseParentheses\obj\Debug\ReverseParentheses.exe
+c:\users\ipritt\source\repos\ReverseParentheses\ReverseParentheses\obj\Debug\ReverseParentheses.pdb

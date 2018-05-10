@@ -1,0 +1,7 @@
+c:\users\ipritt\source\repos\AlmostIncreasingSequence\AlmostIncreasingSequence\bin\Debug\AlmostIncreasingSequence.exe.config
+c:\users\ipritt\source\repos\AlmostIncreasingSequence\AlmostIncreasingSequence\bin\Debug\AlmostIncreasingSequence.exe
+c:\users\ipritt\source\repos\AlmostIncreasingSequence\AlmostIncreasingSequence\bin\Debug\AlmostIncreasingSequence.pdb
+c:\users\ipritt\source\repos\AlmostIncreasingSequence\AlmostIncreasingSequence\obj\Debug\AlmostIncreasingSequence.csproj.CoreCompileInputs.cache
+c:\users\ipritt\source\repos\AlmostIncreasingSequence\AlmostIncreasingSequence\obj\Debug\AlmostIncreasingSequence.exe
+c:\users\ipritt\source\repos\AlmostIncreasingSequence\AlmostIncreasingSequence\obj\Debug\AlmostIncreasingSequence.pdb
+c:\users\ipritt\source\repos\AlmostIncreasingSequence\AlmostIncreasingSequence\obj\Debug\AlmostIncreasingSequence.csprojResolveAssemblyReference.cache
