@@ -61,7 +61,7 @@ namespace PalindromeRearranging
             }
             foreach (var item in values)
             {
-                if (item.Value == 1)
+                if (item.Value % 2 != 0)
                 {
                     count++;
                 }
