@@ -18,28 +18,23 @@ namespace IsListPalindrome
 
         public class LinkedList
         {
-            private ListNode<int> head;
-            private ListNode<int> last;
-
-            public ListNode<int> First
-            {
-                get { return head; }
-            }
+            public ListNode<int> Head { get; private set; }
+            private ListNode<int> Last;
 
             public void Add(int i)
             {
                 ListNode<int> n = new ListNode<int>(i);
                 n.Value = i;
                 n.Next = null;
-                if (last == null)
+                if (Last == null)
                 {
-                    head = n;
-                    last = n;
+                    Head = n;
+                    Last = n;
                 }
                 else
                 {
-                    last.Next = n;
-                    last = n;
+                    Last.Next = n;
+                    Last = n;
                 }
             }
         }
@@ -52,7 +47,7 @@ namespace IsListPalindrome
                 ListNode<int> j = new ListNode<int>(item);
                 list.Add(j.Value);
             }
-            Console.WriteLine(IsListPalindrome(list.First));
+            Console.WriteLine(IsListPalindrome(list.Head));
             Console.ReadLine();
         }
 
