@@ -32,7 +32,7 @@ namespace VariableName
     {
         static void Main(string[] args)
         {
-            string name = "var_1__Int";
+            string name = " variable";
             bool validVariable = VariableName(name);
             Console.WriteLine(validVariable);
             Console.ReadLine();
@@ -47,20 +47,9 @@ namespace VariableName
             }
             foreach (char value in name)
             {
-                if(!(value >= 'a' && value <= 'z' || value >= 'A' && value <= 'Z'))
+                if (!(value >= 'a' && value <= 'z' || value >= 'A' && value <= 'Z' || value >= '0' && value <= '9' || value == '_'))
                 {
                     isValid = false;
-                    break;
-                }
-                else if(!(value >= '0' && value <= '9'))
-                {
-                    isValid = false;
-                    break;
-                }
-                else if(!(value == '_'))
-                {
-                    isValid = false;
-                    break;
                 }
             }
             return isValid;
