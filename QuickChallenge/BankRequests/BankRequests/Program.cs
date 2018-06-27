@@ -129,6 +129,7 @@ namespace BankRequests
                     else
                     {
                         error = (i + 1) * -1;
+                        break;
                     }
                 }
                 if(request[0] == "transfer")

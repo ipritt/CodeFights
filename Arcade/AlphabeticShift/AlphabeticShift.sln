@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabeticShift", "AlphabeticShift\AlphabeticShift.csproj", "{7F2D48CD-AF13-4F85-978D-136554342A29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F2D48CD-AF13-4F85-978D-136554342A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2D48CD-AF13-4F85-978D-136554342A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2D48CD-AF13-4F85-978D-136554342A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2D48CD-AF13-4F85-978D-136554342A29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {910DC74B-B89C-4AED-9A16-F3C29C674B8D}
+	EndGlobalSection
+EndGlobal
